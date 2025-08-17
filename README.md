@@ -1,0 +1,1 @@
+# 🧾 Beginner Friendly Sales Data Analysis (Python)
