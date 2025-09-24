@@ -59,4 +59,4 @@ It's a great starter project to practice **Python**, **Pandas**, and data analys
 ---
 
 ## 🙌 Acknowledgements
-This is a practice project I did to learn basic **Python** & **Pandas** for Data Analysis!! 🤓🤪💻📊
+This is a practice project I did to learn basic **Python** & **Pandas** for Data Analysis!! 💻📊
